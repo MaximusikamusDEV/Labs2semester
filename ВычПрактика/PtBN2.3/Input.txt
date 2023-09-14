@@ -1,0 +1,7 @@
+Abramovich Nikolay 25.01.1994 4 9.4
+Acramovich XX 25.01.1994 3 9.4
+Irodov Fedor 15.12.2000 2 5.3
+Sergeenko Maxim 31.12.2001 3 3.4
+Emelianenko Fedor 12.05.1987 2 5.6
+Uzbekovich Uzbek 22.02.1999 3 4.0
+Belousovich Belous 13.07.1995 3 10

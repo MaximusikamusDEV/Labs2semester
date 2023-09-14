@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LettMsort", "LettMsort.vcxproj", "{230E36C4-1E22-4A8B-8991-368B0763BBD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230E36C4-1E22-4A8B-8991-368B0763BBD6}.Debug|x64.ActiveCfg = Debug|x64
+		{230E36C4-1E22-4A8B-8991-368B0763BBD6}.Debug|x64.Build.0 = Debug|x64
+		{230E36C4-1E22-4A8B-8991-368B0763BBD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{230E36C4-1E22-4A8B-8991-368B0763BBD6}.Debug|x86.Build.0 = Debug|Win32
+		{230E36C4-1E22-4A8B-8991-368B0763BBD6}.Release|x64.ActiveCfg = Release|x64
+		{230E36C4-1E22-4A8B-8991-368B0763BBD6}.Release|x64.Build.0 = Release|x64
+		{230E36C4-1E22-4A8B-8991-368B0763BBD6}.Release|x86.ActiveCfg = Release|Win32
+		{230E36C4-1E22-4A8B-8991-368B0763BBD6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB612433-34AF-4DB3-9876-EBA8C272DC0F}
+	EndGlobalSection
+EndGlobal

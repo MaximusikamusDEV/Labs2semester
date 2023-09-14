@@ -1,0 +1,4 @@
+a b c d e f g h	 z
+e f g a b i y t n z
+
+Ans: a b c d e f g h z i y t n

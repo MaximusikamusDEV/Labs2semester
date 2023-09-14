@@ -1,0 +1,4 @@
+Belousov Belous 16 M 2.4 5
+Maximov Maxim 18 M 10 1
+Korotkova Kate 17 F 10 1
+Krivozubov Krivozub 17 M 2.5 4

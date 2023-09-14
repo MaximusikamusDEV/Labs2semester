@@ -1,0 +1,9 @@
+Uzbekov Uzbek 11.05.2000 2.5 3 6
+
+Belov Belorus 12.03.1999 2.7 3 5
+
+Rusakov Rusak 14.01.1975 9.5 2 7
+
+Pacanov Pacan 09.12.2004 9.0 3 1
+
+Maximov Maxim 09.12.2004 9.3 1 6
