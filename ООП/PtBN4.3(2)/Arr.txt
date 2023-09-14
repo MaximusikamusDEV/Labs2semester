@@ -1,0 +1,30 @@
+1
+1
+5
+7
+5.6
+Blue
+Green
+4
+1
+8
+3
+99
+Open
+You can click on it
+3
+1
+5
+3
+25.4
+Hello Brother
+e
+1
+2
+1
+5
+8
+25.5
+Question about c++ mistacke
+Green
+https://stackoverflow.com/questions/5135900/stack-around-the-variable-was-corrupted

@@ -1,0 +1,7 @@
+﻿  Func.cpp
+C:\Users\HP\Desktop\Лабы прога 2 сем\Сдать\PtBN3.1.1\Func.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\Desktop\Лабы прога 2 сем\Сдать\PtBN3.1.1\Func.cpp(14,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\Desktop\Лабы прога 2 сем\Сдать\PtBN3.1.1\Func.cpp(49,11): warning C4018: >: несоответствие типов со знаком и без знака
+  Source.cpp
+  Создание кода...
+  PtBN3.1.1.vcxproj -> C:\Users\HP\Desktop\Лабы прога 2 сем\Сдать\PtBN3.1.1\Debug\PtBN3.1.1.exe

@@ -1,0 +1,5 @@
+﻿  Func.cpp
+  Source.cpp
+  Создание кода...
+C:\Users\HP\Desktop\Лабы прога 2 сем\Сдать\PtBN2.2\Func.h(205): warning C4715: List<char>::operator[]: значение возвращается не при всех путях выполнения
+  PtBN2.2.vcxproj -> C:\Users\HP\Desktop\Лабы прога 2 сем\Сдать\PtBN2.2\Debug\PtBN2.2.exe

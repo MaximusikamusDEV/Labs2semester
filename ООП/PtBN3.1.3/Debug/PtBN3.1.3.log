@@ -1,0 +1,4 @@
+﻿  Func.cpp
+C:\Users\HP\Desktop\Лабы прога 2 сем\Сдать\PtBN3.1.3\Func.cpp(35,12): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\HP\Desktop\Лабы прога 2 сем\Сдать\PtBN3.1.3\Func.cpp(9,6): warning C4101: tmp: неиспользованная локальная переменная
+  PtBN3.1.3.vcxproj -> C:\Users\HP\Desktop\Лабы прога 2 сем\Сдать\PtBN3.1.3\Debug\PtBN3.1.3.exe
